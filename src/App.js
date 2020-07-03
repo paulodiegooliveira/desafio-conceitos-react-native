@@ -122,8 +122,6 @@ const styles = StyleSheet.create({
   },
   button: {
     marginTop: 10,
-    borderRadius: 8,
-    flex: 1,
   },
   buttonText: {
     fontSize: 14,
@@ -132,5 +130,6 @@ const styles = StyleSheet.create({
     color: "#fff",
     backgroundColor: "#7159c1",
     padding: 15,
+    textAlign: "center",
   },
 });
